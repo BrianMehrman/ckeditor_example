@@ -20,7 +20,7 @@ http://docs.ckeditor.com
 If you have php enabled on your mac you can easily set this code up to run locally.
 
  1. Clone repo locally.
- 2. Symlink the folder to your /Library/WebServer/Documents directory
+ 2. Symlink the folder to your _/Library/WebServer/Documents_ directory
     sudo ln -s ~/projects/ckeditor/ /Library/WebServer/Documents/ckeditor
 
 The sample pages should be avaliable via http://localhost/ckeditor
